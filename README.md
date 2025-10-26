@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+https://nptodo.vercel.app/
 
 Open [live](https://nptodo.vercel.app/) with your browser to see the result.
 
